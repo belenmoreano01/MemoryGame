@@ -12,11 +12,11 @@ Y te permite reiniciar el juego en cualquier momento.
 
 Instalación:
 
-Clona el repositorio: Haz una copia del repositorio en tu máquina local utilizando el comando git clone https://github.com/<nombre-de-usuario>/<nombre-del-repositorio>.git.
+-Clona el repositorio: Haz una copia del repositorio en tu máquina local utilizando el comando git clone https://github.com/<nombre-de-usuario>/<nombre-del-repositorio>.git.
 
-Instala las dependencias: En la carpeta del proyecto, ejecuta el comando npm install o yarn install para instalar todas las dependencias necesarias.
+-Instala las dependencias: En la carpeta del proyecto, ejecuta el comando npm install o yarn install para instalar todas las dependencias necesarias.
 
-Arranca la aplicación: Ejecuta el comando npm start o yarn start para arrancar la aplicación en el modo de desarrollo. La aplicación estará disponible en http://localhost/.
+-Arranca la aplicación: Ejecuta el comando npm start o yarn start para arrancar la aplicación en el modo de desarrollo. La aplicación estará disponible en http://localhost/.
 
 Contacto:
 
