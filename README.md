@@ -1,5 +1,6 @@
 # Juego de memoria - RECICLA!
 Memory Game - Recycle With React.js
+
 Nombre: Andrea Moreano
 
 El juego genera una serie de cartas con figuras, ocultas.
