@@ -1,4 +1,4 @@
-# memorygame
+# Juego de memoria - RECICLA!
 Memory Game - Recycle With React.js
 Nombre: Andrea Moreano
 
