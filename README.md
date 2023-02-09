@@ -13,4 +13,5 @@ Y te permite reiniciar el juego en cualquier momento.
 Contacto:
 
 belen_moreano25@hotmail.com
+
 andrea.moreano.herrera@udla.edu.ec
